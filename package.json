@@ -1,0 +1,9 @@
+{
+  "name": "convert-images-to-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "exiftool-vendored": "^22.0.0"
+  }
+}
